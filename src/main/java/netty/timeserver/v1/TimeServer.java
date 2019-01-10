@@ -1,4 +1,4 @@
-package netty.timeserver;
+package netty.timeserver.v1;
 
 import io.netty.bootstrap.ServerBootstrap;
 import io.netty.channel.ChannelFuture;
