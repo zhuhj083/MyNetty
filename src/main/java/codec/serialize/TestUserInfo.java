@@ -1,4 +1,4 @@
-package serialize;
+package codec.serialize;
 
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
